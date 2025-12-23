@@ -1,4 +1,4 @@
-# covidnumbers
+# Covid Numbers
 This repository contains statistical calculations on covid numbers.
 1)	Technologies: SQL, excel
 2)	Solution: Data exploration of 2 datasets 
